@@ -1,0 +1,81 @@
+/* navbar */
+.search-icon{
+  color: black;
+  cursor: pointer;
+}
+li{
+  list-style: none;
+}
+
+.login-link{
+  text-decoration: none;
+  color: black;
+}
+img{
+  width: 100%;
+}
+section{
+  margin-bottom: 50px;
+  padding: 8px 0;
+}
+.nav-item .nav-link:hover{
+  color: rgb(187, 121, 35) ;
+}
+
+/* Hero Slider */
+.btn-contact{
+    background-color: rgb(187, 121, 35) !important;
+    border-radius: 0 !important;
+    padding: 6px 24px !important;
+ 
+}
+nav .nav-item a:hover{
+  background-color: rgb(187, 121, 35);
+  color: white !important;
+  border-radius: 100px;
+}
+nav .login-link:hover{
+  background-color: rgb(187, 121, 35);
+  color: white !important;
+  border-radius: 100px;
+}
+login-link
+
+/* .carousel-item  .btn-blue{
+  background-color: rgb(49, 131, 124) !important;
+  border-radius: 0 !important;
+  padding: 6px 24px !important;
+
+} */
+
+/* furnitures */
+.shadow-on-hover{
+  transition: all 0.3s;
+ }
+ .shadow-on-hover:hover{
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.603);
+ }
+ .blue-tx{
+  color:  rgb(49, 131, 124);
+  font-size: 20px;
+ }
+
+
+ @media(max-width:768px){
+  .furniture-item img{
+    width: 75%;
+    
+    
+  }
+ }
+ /* Contact us1 */
+ .margin-bottom-sm{
+  margin-bottom: 12px;
+ }
+
+ .hvr{
+  transition: all 0.3s;
+ }
+ .hvr:hover{
+  background-color: blue;
+ }
