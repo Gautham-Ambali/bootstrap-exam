@@ -34,11 +34,11 @@ nav .nav-item a:hover{
   color: white !important;
   border-radius: 100px;
 }
-nav .login-link:hover{
+/* nav .login-link:hover{
   background-color: rgb(187, 121, 35);
   color: white !important;
   border-radius: 100px;
-}
+} */
 login-link
 
 /* .carousel-item  .btn-blue{
